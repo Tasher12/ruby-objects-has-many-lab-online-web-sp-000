@@ -20,8 +20,11 @@ class Author
     add_post(post_title)
   end  
     
+<<<<<<< HEAD
   def self.post_count
     Post.all.count 
   end 
+=======
+>>>>>>> 674e3815d5acd3b1809c82b47ad5d710099ea7ca
   
 end 
